@@ -1,2 +1,2 @@
 # galaxycircles.github.io
-Web internal production for GalaxyOfCircles project.
+Game link - https://oultrox.github.io/galaxycircles-deploy/
